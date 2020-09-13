@@ -1,6 +1,6 @@
 # Hotel_CRM
 A prototype single unit hotel CRM system
-Trial Sales Database12_Backup.accdb file is the final prototype CRM application
+Trial Sales Database12.accdb file is the final prototype CRM application
 THis project was completed over 1.5 years starting with my employement as the Director of Sales at a La Quinta Inn and suites where I created the hotels sales system initally using paper forms. Then I led a team to create the SQL database that digitized my sales proccess for my advance databse class in both MySQL and Access. Finally I led a small team to build a front end for the database using Access due to the cost considerations for the hotel. 
 
 ## 1.0 Executive Summary 
