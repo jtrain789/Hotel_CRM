@@ -4,7 +4,7 @@ Trial Sales Database12.accdb file is the final prototype CRM application
 THis project was completed over 1.5 years starting with my employement as the Director of Sales at a La Quinta Inn and suites where I created the hotels sales system initally using paper forms. Then I led a team to create the SQL database that digitized my sales proccess for my advance databse class in both MySQL and Access. Finally I led a small team to build a front end for the database using Access due to cost considerations for the hotel. 
 
 * ADBMS Project Documentation: Contains documentation from initial database design and creation
-* ### Project Application Development: Contains documentation on the front end application development and final databse design. 
+* Project Application Development: Contains documentation on the front end application development and final databse design. 
 * Final Presenation: Powerpoint presenation on the prototype sales CRM application
 * Trial Sales Database1.accdb: Inital Access SQL database
 * Trial Sales Database 12.accdb: Final Access SQL database and front end 
